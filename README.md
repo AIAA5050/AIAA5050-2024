@@ -17,7 +17,6 @@ This course is offered at HKUST(GZ) . It is focused on exploring the "ultimate c
 ## 1.1. Course Information
 
 - Institution: HKUST(GZ)
-- Class Number: 6240
 - Session: Postgraduate (GZ)
 - Units: 3
 - Instruction Mode: In Person
