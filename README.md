@@ -96,11 +96,11 @@ The study of consciousness is referred to as the "ultimate challenge of artifici
 | LLMs测试与分析             | Does GPT-4 Pass the Turing Test?                             | ArXiv                           | 2023年   | 对GPT-4进行图灵测试的实验设计和结果分析。                    |
 | LLMs理解能力探讨           | Do Large Language Models Understand Us?                      | Daedalus                        | 2022年   | 探讨了大型语言模型在语言理解和智能方面的作用，尤其是其理论意义。 |
 | 自我认知与自我改进         | Self-Cognition in Large Language Models: An Exploratory Study | ICML                            | 2024年   | 建立了评估AI系统自我认知的体系，并对各个大模型进行了评估。   |
-| 自我认知与自我改进         | Self-Refine: Iterative Refinement with Self-Feedback         | NIPS                            | 2024年   | 提出了通过自我反馈进行迭代改进的方法，探讨了AI的自我提升能力。 |
+| 自我认知与自我改进         | Self-Refine: Iterative Refinement with Self-Feedback         | NeurIPS                            | 2024年   | 提出了通过自我反馈进行迭代改进的方法，探讨了AI的自我提升能力。 |
 | 自我认知与自我改进         | Reflexion: an autonomous agent with dynamic memory and self-reflection | ArXiv                           | 2023年   | 描述了一种具有动态记忆和自我反思能力的自主代理系统。         |
 | 自我认知与自我改进         | Large Language Models Can Self-Improve                       | ACL                             | 2022年   | 探讨了大型语言模型如何通过自我改进来增强其能力。             |
 | 解释性与生成性AI           | Self-explaining AI as an alternative to interpretable AI     | Artificial General Intelligence | 2020年   | 研究了自解释AI作为可解释AI替代方案的潜力，探讨了其在意识研究中的应用。 |
-| 意识测量与机器意识         | MMToM-QA: Multimodal Theory of Mind Question Answering       | NIPS-W                          | 2023年   | 引入了用于评估机器学习模型从视频和文本数据中推断心理状态（目标和信念）能力的第一个多模态心理理论（MMToM-QA）基准。 |
+| 意识测量与机器意识         | MMToM-QA: Multimodal Theory of Mind Question Answering       | NeurIPS workshop                          | 2023年   | 引入了用于评估机器学习模型从视频和文本数据中推断心理状态（目标和信念）能力的第一个多模态心理理论（MMToM-QA）基准。 |
 | -                          | Evaluating Large Language Models in Theory of Mind Tasks     | -                               | -        | 本文评估了11个大型语言模型(LLMs)在一系列虚假信念任务上的表现，这些任务被认为是评估人类心理理论(ToM)的黄金标准。 |
 | -                          | Taken out of context: On measuring situational awareness in LLMs | -                               | -        | 探讨了大型语言模型（LLM）中情境意识的潜在出现，并分析了LLMs如何通过上下文推理展现情境意识。 |
 | -                          | SelfIE: Self-Interpretation of Large Language Model Embeddings | -                               | -        | 本文提出了SelfIE框架，使大型语言模型(LLMs)能够用自然语言解释其内部嵌入，揭示模型在伦理决策中的推理过程。 |
